@@ -9,4 +9,4 @@ thumbs.db
 .DS_Store
 .idea
 .venv
-/raw_data
+raw_data/
