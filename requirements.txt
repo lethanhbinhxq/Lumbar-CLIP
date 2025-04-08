@@ -4,3 +4,5 @@ regex
 tqdm
 torch
 torchvision
+pandas
+git+https://github.com/DIAGNijmegen/Tiger.git@stable
