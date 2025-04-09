@@ -1,1 +1,1 @@
-A T1-weighted MRI of a male patient with 7 vertebrae and 7 discs. Discs 1, 5, 7 show Pfirrmann grade 1. Discs 2–4, 6 show Pfirrmann grade 2. Low endplate in discs 1–2, 7. Up endplate in discs 1, 5–7. Narrowing in discs 2–4. Bulging in discs 2–4, 6–7.
+A T1-weighted MRI of a male patient with 7 vertebrae and 7 discs. Discs 1, 5, 7 show Pfirrmann grade 1. Discs 2-4, 6 show Pfirrmann grade 2. Low endplate in discs 1-2, 7. Up endplate in discs 1, 5-7. Narrowing in discs 2-4. Bulging in discs 2-4, 6-7.

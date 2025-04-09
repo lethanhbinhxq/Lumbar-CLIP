@@ -28,7 +28,9 @@ def compress_ranges(numbers):
             ranges.append((start, prev))
             start = prev = num
     ranges.append((start, prev))
-    return ", ".join(f"{s}" if s == e else f"{s}–{e}" for s, e in ranges)
+    
+    # Use en dash (U+2013) explicitly
+    return ", ".join(f"{s}" if s == e else f"{s}-{e}" for s, e in ranges)
 
 def summarize_patient_grading(patient_grading):
     pfirrmann_map = defaultdict(list)
